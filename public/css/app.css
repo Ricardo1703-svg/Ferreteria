@@ -1,0 +1,56 @@
+h1{
+    color: red;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+/* <------------------------Barra de Navegacion---------------------------------------> */
+header {
+    background-color:#093969;
+    padding: 20px 0;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff7f7;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+/* <----------------------------------------------------------------------------> */
+
+/* <-------------------------------Pie de Pagina--------------------------------> */
+footer{
+    background-color: #093969;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.pie_pagina{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+}
+/* <----------------------------------------------------------------------------> */
+
+/* <----------------------------------------------------------------------------------------------------------------------------------> */
+
