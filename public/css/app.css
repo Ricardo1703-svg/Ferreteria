@@ -5,6 +5,7 @@ h1{
 body{
     margin: 0;
     padding: 0;
+    background-color: #d5b9b9;
 }
 
 .container {
@@ -53,4 +54,32 @@ footer{
 /* <----------------------------------------------------------------------------> */
 
 /* <----------------------------------------------------------------------------------------------------------------------------------> */
+
+.containerR {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.containerCajas {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; 
+}
+
+.box {
+    border: 5px solid rgb(10, 8, 12);
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+    align-items: center;
+}
 
