@@ -1,22 +1,13 @@
 # Equipo de Estudiantes  PROGRAMACION COMPUTACIONAL IV
+<div align="center">
+  <img src="https://facturacion.ugb.edu.sv/img/ugb_icon_hor_dark.f6e16e97.png" alt="Logo de GitHub">
+</div>
 
-![Logo de GitHub](https://facturacion.ugb.edu.sv/img/ugb_icon_hor_dark.f6e16e97.png)
-
-## Estudiante 1
+## Estudiantes
 
 - **Nombre:** RICARDO ALEXANDER ÁLVAREZ PORTILLO
-
-
-## Estudiante 2
-
 - **Nombre:** JEISON BALDOMAR VENTURA SORTO
-
-## Estudiante 3
-
 - **Nombre:** EDVIN ABELARDO GUEVARA VÁSQUEZ
-
-## Estudiante 4
-
 - **Nombre:** LUISA FERNANDA MEDRANO CRUZ
 ---
 
